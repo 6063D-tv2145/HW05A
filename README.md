@@ -1,6 +1,7 @@
 # HW05 Description
 **What dataset did you use? If not from our class site, include a link.**  
-I used the 2015 Tree Census JSON dataset that you have provided.  
+I used the 2015 Tree Census JSON dataset that you have provided.
+  
 **Why did you choose this dataset?**  
 When I was going through the provided options, I felt like the Tree Census would actually be a dataset I would personally want to know more about. I always felt like NYC has a lot of greenery for how major of a city it is, so I wanted to learn more from my personal curiosity.  
 
